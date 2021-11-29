@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sanjeetpratapsingh
+- 👋 Hi, I’m Sanjeet.
 - 👀 I’m interested in learning git usage as an professional.
-- 🌱 I’m currently learning gut as newbie. 
+- 🌱 I’m currently newbie at git. 
 - 💞️ I’m looking to collaborate on sw developement and code repository.
 - 📫 I am reachable at sanjeetpratapsingh@gmail.com
 
